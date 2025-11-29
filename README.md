@@ -166,5 +166,3 @@ All GUI settings are automatically saved to:
 
 ```text
 ~/.showplayer_settings.json
-
-
