@@ -70,7 +70,7 @@ Assumes a driver accepting:
 PWM frequency: **5 kHz**  
 Duty: **0–100%**
 
-(Not an RC servo — this is for analog-speed servo/motor drivers.)
+(Not an RC servo - this is for analog-speed servo/motor drivers.)
 
 ### LED Strips
 - WS2812B (NeoPixel), GRB
