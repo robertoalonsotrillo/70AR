@@ -115,7 +115,7 @@ sudo apt install python3-pip python3-tk python3-numpy python3-scipy python3-soun
 pip3 install soundfile python-osc
 ```
 
-## ▶️ Running the Application
+## Running the Application
 
 Clone the repository and launch the daemon:
 
