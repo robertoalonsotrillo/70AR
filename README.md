@@ -6,9 +6,7 @@ This repository contains a Python application that turns **audio playback** into
 
 - **Analog-speed servo control** (PWM duty + direction)
 - **LED animation** on up to **three Pimoroni Plasma 2040** boards (WS2812 NeoPixels)
-- **OSC-controllable “show” playback**, with RMS analysis and JSON export
-
-Designed for installations where **sound, motion, and light** must be tightly synchronized.
+- **OSC-controllable playback**, with RMS analysis and JSON export
 
 ---
 
