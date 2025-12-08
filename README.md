@@ -1,4 +1,5 @@
 # PULSARS
+---
 ## Audio → Servo + Plasma 2040 LED Controller
 ### Real-time audio-driven motion + LED light for Raspberry Pi installations
 
