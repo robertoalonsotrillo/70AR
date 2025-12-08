@@ -101,8 +101,6 @@ Up to **three** boards at once.
 3. Flash firmware:  
    - Drag `.uf2` onto `RPI-RP2`
 
-Repeat for each Plasma 2040.
-
 ---
 
 ## Installing on Raspberry Pi
