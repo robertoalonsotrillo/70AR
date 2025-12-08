@@ -1,3 +1,4 @@
+# PULSARS
 # Audio → Servo + Plasma 2040 LED Daemon
 ### Real-time audio-driven motion + LED light for Raspberry Pi installations
 
