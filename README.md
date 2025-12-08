@@ -41,7 +41,7 @@ This repository contains a Python application that turns **audio playback** into
 - Always keeps ≥ half pixels lit when active
 - LED ramp diagnostic mode (0 → 65% → 0)
 
-### OSC Control
+### OSC Control Sender + Listener
 - Custom bind IP + port (e.g. `0.0.0.0:9000`)
 - Custom OSC paths for start/stop
 - Works with TouchOSC, Max/MSP, Pd, Python-OSC, etc.
