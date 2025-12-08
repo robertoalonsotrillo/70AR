@@ -124,7 +124,7 @@ Clone the repository and launch the daemon:
 ```bash
 git clone https://github.com/robertoalonsotrillo/70AR.git
 cd https://github.com/robertoalonsotrillo/70AR.git
-python3 MIX_21_PWM_LED.py
+python3 MIX_21_PWM_LED_UPDATED.py
 ```
 
 The GUI will appear with five main tabs:
