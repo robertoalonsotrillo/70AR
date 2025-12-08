@@ -96,8 +96,7 @@ Up to **three** boards at once.
 2. Put board into bootloader mode:  
    - Hold **BOOT**  
    - Plug USB into Raspberry Pi  
-   - Release **BOOT**  
-   → Drive `RPI-RP2` appears
+   - Release **BOOT**  → Drive `RPI-RP2` appears
 
 3. Flash firmware:  
    - Drag `.uf2` onto `RPI-RP2`
