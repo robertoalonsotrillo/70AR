@@ -1,4 +1,6 @@
 # PULSAR
+<img width="2018" height="3223" alt="Untitled design-13" src="https://github.com/user-attachments/assets/44ed1e03-0c88-41ec-b0d6-808e6467af58" />
+
 ## Audio → Servo + Plasma 2040 LED Controller
 ### Real-time audio-driven motion + LED light for Raspberry Pi installations
 
