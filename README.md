@@ -167,4 +167,4 @@ All GUI settings are automatically saved to:
 ~/.showplayer_settings.json
 ```
 ## How to Cite
-Chan, J., & Alonso Trillo, R. (2025). *Pulsar* [Kinetic sculpture]. MetaMaps Project. Animation by Peter A. C. Nelson.
+Chan, J. & Alonso Trillo, R. (2025). *Pulsar* [Kinetic sculpture]. MetaMaps Project. Animation by Peter A. C. Nelson.
