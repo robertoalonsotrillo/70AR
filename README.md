@@ -1,4 +1,4 @@
-# PULSARS
+# PULSAR
 ![FabConvert com_pulsar_animated_rotation-ezgif com-crop](https://github.com/user-attachments/assets/3096b762-8418-4226-95ff-82c61368d752)
 ## Audio → Servo + Plasma 2040 LED Controller
 ### Real-time audio-driven motion + LED light for Raspberry Pi installations
